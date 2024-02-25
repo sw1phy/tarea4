@@ -1,9 +1,9 @@
 1.
-*Instalar previamente yarn:
+ *Instalar previamente yarn:
 - npm install --global yarn
 
 2.
-- npx expo start
+- npx expo start (ejecutar para android)
 
 
 *En caso de que la build falle, ejecutar:
