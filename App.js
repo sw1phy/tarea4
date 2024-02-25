@@ -93,10 +93,7 @@ const styles = StyleSheet.create({
   },
 });
 
-/**
- * Returns the array shuffled into a random order.
- * Do not edit this function.
- */
+
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const randomIndex = Math.floor(Math.random() * (i + 1));
